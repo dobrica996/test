@@ -6,7 +6,7 @@ Visit the web app's adress in browser and the page that lists 3x3 grid with prod
 To approve the comment you must first log in.
 Username: citrussystems
 Password: Mun*L3e32
-When logged in navigation there is a link Comments.
+When logged in, in navigation there is a link Comments.
 On that page you can approve the comments.
 
 
