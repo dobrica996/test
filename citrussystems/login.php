@@ -8,7 +8,7 @@ session_start();
 	<head>
 		<meta charset="utf-8" />
 		<title>Login</title>
-		    <meta name="description" content="prijava na sajt." />
+		    <meta name="description" content="Login" />
 
 		<link rel="stylesheet" type="text/css" href="css/main.css">
 	</head>
